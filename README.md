@@ -31,21 +31,21 @@ Java.perform(function() {
         onComplete: function() {}
     });
 });
+```
 
+**Commande :** `frida -U -l extract_now.js Firestorm`  
+**Mot de passe :** `C7_dotpsC7t7f_._In_i.IdttpaofoaIIdIdnndIfC`
 
-Commande : frida -U -l extract_now.js Firestorm
-Mot de passe : C7_dotpsC7t7f_._In_i.IdttpaofoaIIdIdnndIfC
+![Frida extraction result](https://github.com/user-attachments/assets/3ef58286-e413-491c-a29e-3cce415d0e1c)
 
-<img width="456" height="297" alt="Capture d’écran 2026-05-02 160416" src="https://github.com/user-attachments/assets/3ef58286-e413-491c-a29e-3cce415d0e1c" />
+---
 
+## 🔐 Étape 3 – Authentification Firebase
 
- Étape 3 – Authentification Firebase
+![Firebase authentication](https://github.com/user-attachments/assets/4d7ad405-dc61-48a7-898f-39b025724cee)
 
-<img width="950" height="134" alt="Capture d’écran 2026-05-02 160503" src="https://github.com/user-attachments/assets/4d7ad405-dc61-48a7-898f-39b025724cee" />
+---
 
+## 🚩 Flag
 
-
- Flag
-<img width="367" height="31" alt="Capture d’écran 2026-05-02 160534" src="https://github.com/user-attachments/assets/f6896f18-ccb7-4697-b49f-51ed82cc9115" />
-
-
+![Flag result](https://github.com/user-attachments/assets/f6896f18-ccb7-4697-b49f-51ed82cc9115)
